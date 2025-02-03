@@ -1,7 +1,7 @@
 {
   "name": "hroom",
   "version": "0.1.0",
-  "homepage": "Swoopchinsky.github.io/hroom",
+  "homepage": "https://Swoopchinsky.github.io/react-hroom",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
